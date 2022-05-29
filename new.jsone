@@ -1,6 +1,6 @@
 {
-"name":"Taras Anikin"
-"age":"39"
-"pet":"1"
-"Salary":"2000usd"
+"name":"Taras Anikin",
+"age":39,
+"pet": 1,
+"Salary":"2000usd",
 }
